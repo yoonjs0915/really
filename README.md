@@ -85,3 +85,5 @@ git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=864000'
 
 이제 더 이상 비밀번호를 물어보지 않는다. 야호!
+
+연습용7/4일
